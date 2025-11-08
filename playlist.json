@@ -237,7 +237,7 @@
     "tvg_logo": "http://103.176.90.118/picons-dino/logos/b4umusic.png",
     "group_title": "[IN] INDIA",
     "channel_name": "",
-    "url": "https://allinonereborn.online/lion.m3u8/live.php?id=281303"
+    "url": "https://amg00877-b4unew-amg00877c3-lg-in-5261.playouts.now.amagi.tv/playlist/amg00877-b4unetworkeuropefast-b4umusic-lgin/playlist.m3u8"
   },
   {
     "tvg_id": "281304",
@@ -9782,6 +9782,14 @@
     "group_title": "[IN] INDIA - EUROPE",
     "channel_name": "",
     "url": "https://allinonereborn.online/lion.m3u8/live.php?id=281258"
+  },
+  {
+    "tvg_id": "2912500",
+    "tvg_name": "[IN] B4U Kadak",
+    "tvg_logo": "https://dvvlqr1rtlak3.cloudfront.net/B4U/B4U_KADAK/kadak_logo_resized_400x200.png",
+    "group_title": "[IN] INDIA",
+    "channel_name": "",
+    "url": "https://amg00877-b4unew-amg00877c4-lg-in-5452.playouts.now.amagi.tv/playlist/amg00877-b4unetworkeuropefast-b4ukadak-lgin/playlist.m3u8"
   },
   {
     "tvg_id": "281259",
