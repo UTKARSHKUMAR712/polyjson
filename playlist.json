@@ -12,8 +12,16 @@
   "tvg_name": "Yrf",
   "tvg_logo": "https://dvvlqr1rtlak3.cloudfront.net/YRF_MUSIC/YRF-Music-Channel-Logo_200x400.jpg",
   "group_title": "[IN] INDIA",
-  "channel_name": "Star GOLD (sd)",
+  "channel_name": "Yrf",
   "url": "https://amg00223-unisys-amg00223c2-lg-in-2045.playouts.now.amagi.tv/playlist/amg00223-sevencolorsbroadcastingprivatelimited-yfrmusic-lgin/playlist.m3u8"
+  },
+  {
+  "tvg_id": "saga_music.in",
+  "tvg_name": "saga_music",
+  "tvg_logo": "https://dvvlqr1rtlak3.cloudfront.net/SagaMusic/saga_music_logo_resized_black_400x200.png",
+  "group_title": "[IN] INDIA",
+  "channel_name": "saga_music",
+  "url": "https://amg00223-unisys-amg00223c5-lg-in-2048.playouts.now.amagi.tv/playlist/amg00223-sevencolorsbroadcastingprivatelimited-sagamusic-lgin/playlist.m3u8"
   },
   {
     "tvg_id": "281277",
