@@ -241,11 +241,11 @@
   },
   {
     "tvg_id": "281304",
-    "tvg_name": "[IN] 9X JALWA",
+    "tvg_name": "[IN] 9X JALWA HD",
     "tvg_logo": "http://103.176.90.118/picons-dino/logos/9xjalwa.jpg",
     "group_title": "[IN] INDIA",
     "channel_name": "",
-    "url": "https://allinonereborn.online/lion.m3u8/live.php?id=281304"
+    "url": "https://amg01281-amg01281c3-amgplt0173.playout.now3.amagi.tv/playlist/amg01281-amg01281c3-amgplt0173/playlist.m3u8"
   },
   {
     "tvg_id": "281305",
@@ -550,6 +550,14 @@
     "group_title": "[IN] INDIA",
     "channel_name": "",
     "url": "https://allinonereborn.online/lion.m3u8/live.php?id=281344"
+  },
+  {
+    "tvg_id": "281340",
+    "tvg_name": "[IN] 9X TASHAN HD",
+    "tvg_logo": "http://103.176.90.118/picons-dino/logos/9X-TASHAN.jpeg",
+    "group_title": "[IN] INDIA",
+    "channel_name": "",
+    "url": "https://amg01281-amg01281c2-amgplt0173.playout.now3.amagi.tv/playlist/amg01281-amg01281c2-amgplt0173/playlist.m3u8"
   },
   {
     "tvg_id": "281345",
@@ -885,7 +893,7 @@
     "tvg_logo": "http://103.176.90.118/picons/logos/9xjalwa.jpg",
     "group_title": "[IN] INDIA",
     "channel_name": "",
-    "url": "https://allinonereborn.online/lion.m3u8/live.php?id=841998"
+    "url": "https://amg01281-amg01281c3-amgplt0173.playout.now3.amagi.tv/playlist/amg01281-amg01281c3-amgplt0173/playlist.m3u8"
   },
   {
     "tvg_id": "841985",
