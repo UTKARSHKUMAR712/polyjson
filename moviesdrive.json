@@ -1,1 +1,21 @@
+export const CONFIG = {
 
+    // Canonical current host. Kept in sync with the operator-controlled
+    // dynamic endpoint below; the app overrides this on boot.
+    BASE_URL:
+      "https://new3.moviesdrives.my/",
+
+    SEARCH_API:
+      "https://new3.moviesdrives.my/search.php",
+
+    // Operator-controlled pointer to the current host.
+    // Returns: { "h": "<base64 of the host>" }
+    // The app fetches this on boot and overwrites BASE_URL/SEARCH_API
+    // with whatever the operator publishes, so a host swap
+    // (e.g. new2 -> new3 -> new4) requires no code change.
+    HOST_API:
+      "https://cdn.mdrivecdn.net/host/",
+
+    PROXY:
+      "http://localhost:3000/raw?url="
+};
